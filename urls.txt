@@ -1,0 +1,4 @@
+http://backlog-pal-vishjd.apps.pikes.pal.pivotal.io
+http://allocations-pal-vishjd.apps.pikes.pal.pivotal.io
+http://registration-pal-vishjd.apps.pikes.pal.pivotal.io
+http://timesheets-pal-vishjd.apps.pikes.pal.pivotal.io
