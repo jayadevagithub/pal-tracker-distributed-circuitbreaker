@@ -3,4 +3,5 @@ dependencies {
     compile "org.springframework:spring-jdbc:$springVersion"
     compile "mysql:mysql-connector-java:$mysqlVersion"
     compile "junit:junit:4.12"
+    compile "com.netflix.hystrix:hystrix-javanica:1.5.6"
 }
